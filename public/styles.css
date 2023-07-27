@@ -71,6 +71,21 @@ body, h1, h2, h3, p, ul, li {
     padding: 3rem 1rem;
     text-align: center;
   }
+
+  #about .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  #about h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'JapaneseFont', sans-serif;
+  }
+  
+  #about p {
+    margin-bottom: 1.5rem;
+  }
   
   #classes {
     background-color: black;
@@ -131,7 +146,7 @@ body, h1, h2, h3, p, ul, li {
     text-align: center;
   }
 
-.hero-image {
+  .hero-image {
     text-align: center;
     margin-top: 2rem; /* Adjust this as needed */
   }
